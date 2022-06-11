@@ -11,7 +11,11 @@ html,
 body {
   min-height: 100vh;
   height: 100%;
+}
 
+.app {
+  display: flex;
+  justify-content: center;
 }
 
 #dark.app {
@@ -126,6 +130,7 @@ input:checked + .slider:before {
 /* Content */
 .description {
   margin: 1rem 2rem;
+  max-width: 700px;
 }
 
 h1 {
