@@ -19,7 +19,7 @@ have used React Icons library for moon and sun icons.
 
 ## Instalation
 
-git clone 
+git clone https://github.com/romaniso/Light-and-dark-theme-Toggle.git
 
 npm install
 npm  start
